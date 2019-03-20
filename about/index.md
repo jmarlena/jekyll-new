@@ -3,5 +3,5 @@ layout: page
 title: About
 ---
 
-Welcome to opportune bloom.
+Welcome to opportune bloom, bloom.
 
